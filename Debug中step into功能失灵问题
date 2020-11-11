@@ -1,0 +1,2 @@
+打开Debug As中的Debug Confinurations --  JRE -- Alternate JRE（是否是jak版本，也就是使用jdk中的jre）
+若不符合点击后面的Installed JRE，选中列表中的jre 点击remove,选择Add -- Standard VM -- next -- (JRE home)--Directory 寻找jdk 安装位置 -- finish --选中列表中的jdk -- OK --Apply
